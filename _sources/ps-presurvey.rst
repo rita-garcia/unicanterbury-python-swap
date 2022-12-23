@@ -77,7 +77,7 @@ about the specified concept(s).
     :option_5: I am confident in my ability to use this concept in complex programs
     :results: instructor
 
-    Setting the value of a variable like ``x = 4``
+    Setting the value of a variable like: x = 4
 
 
 Feedback
