@@ -160,17 +160,8 @@ What to do next
       window.onload = function() {
 
         a = document.getElementById("ps-practice")
+        a.href = "ps-parsons.html"
 
-        // randomly pick one of two relative urls
-        var v = Math.floor(Math.random() * 9) + 1;
-        if (v % 2 == 0)
-        {
-              a.href = "ps-parsons.html"
-        }
-        else
-        {
-               a.href = "ps-write.html"
-        }
 
         };
     </script>
