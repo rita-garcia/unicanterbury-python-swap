@@ -18,7 +18,7 @@ See the video below for an example.
 .. youtube:: Rf7oWHlo-e0
     :divid: iwgex1-parsons1-ps
     :optional:
-    :width: 640
+    :width: 650
     :height: 415
     :align: center
 
@@ -86,7 +86,7 @@ See the video below for an example.
 .. youtube:: QejZ7u642IU
     :divid: iwgex1-parsons2-ps
     :optional:
-    :width: 640
+    :width: 650
     :height: 415
     :align: center
 
