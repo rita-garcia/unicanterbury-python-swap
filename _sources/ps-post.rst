@@ -19,13 +19,13 @@ Problems
    y = 2
    temp = 0
 
-   // print the values
+   # print the values
    print(x)
    print(y)
 
-   // swap the values
+   # swap the values
 
-   // print the values
+   # print the values
    print(x)
    print(y)
    ====
@@ -33,8 +33,8 @@ Problems
    class myTests(TestCaseGui):
 
        def testOne(self):
-           self.assertAlmostEqual(x, 2, "value of x after swap")
-           self.assertAlmostEqual(y, 6, "value of y after swap")
+           self.assertEqual(x, 2, "value of x after swap")
+           self.assertEqual(y, 6, "value of y after swap")
 
    myTests().main()
 
@@ -48,13 +48,13 @@ Problems
    b = 5
    temp = 0
 
-   // print the values
+   # print the values
    print(a)
    print(b)
 
-   // swap the values
+   # swap the values
 
-   // print the values
+   # print the values
    print(a)
    print(b)
    ====
@@ -62,8 +62,8 @@ Problems
    class myTests(TestCaseGui):
 
        def testOne(self):
-           self.assertAlmostEqual(a, 5, "value of a after swap")
-           self.assertAlmostEqual(b, -3, "value of b after swap")
+           self.assertEqual(a, 5, "value of a after swap")
+           self.assertEqual(b, -3, "value of b after swap")
 
    myTests().main()
 
