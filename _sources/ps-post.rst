@@ -9,7 +9,7 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. activecode:: ps-swap1-ac
+.. activecode:: ps-swap1-ac-v2
    :autograde: unittest
 
    Finish writing the code to swap the values in x and y (so that x ends up with y's initial value and y ends up with x's initial value).
