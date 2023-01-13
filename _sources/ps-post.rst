@@ -9,15 +9,19 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. activecode:: ps-swap-ac
+.. activecode:: ps-swap1-ac
    :autograde: unittest
 
-   Finish writing the code to swap the values in a and b (so that a ends up with b's initial value and b ends up with a's initial value).
+   Finish writing the code to swap the values in x and y (so that x ends up with y's initial value and y ends up with x's initial value).
    ~~~~
 
    x = 6
    y = 2
    temp = 0
+
+   // print the values
+   print(x)
+   print(y)
 
    // swap the values
 
@@ -30,7 +34,36 @@ Problems
 
        def testOne(self):
            self.assertAlmostEqual(x, 2, "value of x after swap")
-           self.assertAlmostEqual(y, 6, "value of x after swap")
+           self.assertAlmostEqual(y, 6, "value of y after swap")
+
+   myTests().main()
+
+.. activecode:: ps-swap2-ac
+   :autograde: unittest
+
+   Finish writing the code to swap the values in a and b (so that a ends up with b's initial value and b ends up with a's initial value).
+   ~~~~
+
+   a = -3
+   b = 5
+   temp = 0
+
+   // print the values
+   print(a)
+   print(b)
+
+   // swap the values
+
+   // print the values
+   print(a)
+   print(b)
+   ====
+   from unittest.gui import TestCaseGui
+   class myTests(TestCaseGui):
+
+       def testOne(self):
+           self.assertAlmostEqual(a, 5, "value of a after swap")
+           self.assertAlmostEqual(b, -3, "value of b after swap")
 
    myTests().main()
 
