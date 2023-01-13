@@ -19,7 +19,7 @@ Study Information
 Thank you for taking part in this study! We are researchers who are trying
 to improve the teaching and learning of programming.
 
-This study has four parts.  It will take approximately 50 minutes to complete
+This study has four parts.  It will take approximately 30 minutes or less to complete
 the study.  Please do the parts in order and answer questions to the best
 of your ability without any outside help. You can stop working on a problem after you worked
 on it for about five minutes without solving it.
