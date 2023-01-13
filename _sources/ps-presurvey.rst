@@ -73,21 +73,19 @@ about the specified concept(s).
     :option_1: I am unfamiliar with this concept
     :option_2: I know what it means, but have not used it in a program
     :option_3: I have used this concept in a program, but am not confident about my ability to use it
-    :option_4: I am confident in my ability to use this concept in simple programs
-    :option_5: I am confident in my ability to use this concept in complex programs
+    :option_4: I am confident in my ability to use this concept in a program
     :results: instructor
 
-    Setting the value of a variable like: ``x = 4``
+    Setting the value of a variable like: x = 4
 
 .. poll:: ps-prog-se-swap-8
     :option_1: I am unfamiliar with this concept
     :option_2: I know what it means, but have not used it in a program
     :option_3: I have used this concept in a program, but am not confident about my ability to use it
-    :option_4: I am confident in my ability to use this concept in simple programs
-    :option_5: I am confident in my ability to use this concept in complex programs
+    :option_4: I am confident in my ability to use this concept in a program
     :results: instructor
 
-    Swapping the values of two variables so that ``var1`` has the original value of ``var2`` and ``var2`` has the original value of ``var1``
+    Swapping the values of two variables so that var1 has the original value of var2 and var2 has the original value of var1
 
 
 Feedback
