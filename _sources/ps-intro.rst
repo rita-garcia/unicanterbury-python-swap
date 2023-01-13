@@ -18,8 +18,8 @@ See the video below for an example.
 .. youtube:: Rf7oWHlo-e0
     :divid: iwgex1-parsons1-ps
     :optional:
-    :width: 704
-    :height: 457
+    :width: 640
+    :height: 415
     :align: center
 
 Try to solve the following mixed-up code problem.  This problem doesn't require any indentation.
@@ -86,8 +86,8 @@ See the video below for an example.
 .. youtube:: QejZ7u642IU
     :divid: iwgex1-parsons2-ps
     :optional:
-    :width: 704
-    :height: 457
+    :width: 640
+    :height: 415
     :align: center
 
 Solving Write Code Problems
@@ -103,8 +103,8 @@ See the video below for an example.
 .. youtube:: w9hTOJ7iJpE
     :divid: js-write-code-video-ex
     :optional:
-    :width: 704
-    :height: 457
+    :width: 768
+    :height: 498
     :align: center
 
 Finish writing the code for the following problem.
