@@ -103,8 +103,8 @@ See the video below for an example.
 .. youtube:: w9hTOJ7iJpE
     :divid: js-write-code-video-ex
     :optional:
-    :width: 768
-    :height: 498
+    :width: 832
+    :height: 540
     :align: center
 
 Finish writing the code for the following problem.
