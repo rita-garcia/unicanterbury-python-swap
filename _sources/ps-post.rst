@@ -23,7 +23,8 @@ Problems
    print(x)
    print(y)
 
-   # swap the values
+   # swap the values of x and y
+   # write your code here
 
    # print the values
    print(x)
@@ -52,7 +53,8 @@ Problems
    print(a)
    print(b)
 
-   # swap the values
+   # swap the values of a and b
+   # write your code here
 
    # print the values
    print(a)
